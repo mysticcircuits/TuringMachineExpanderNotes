@@ -11,4 +11,5 @@ To buy a kit to make the Turing Machine and its expanders check out thonk.co.uk.
 
 To buy Mystic Circuits modules that support the Turing Machine Expansion protocol such as Tree and Leaves go to www.MysticCircuits.com
 
-Thank you for checking out this info.
+Everything in this repository is covered by a Creative Commons Attribution-ShareAlike 4.0 International Public
+License included here.
